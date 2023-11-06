@@ -7,4 +7,4 @@ Uses CSS Grid to reproduce the following grid:
 
 Result:
 
-![CSS_Grid_Exercise](https://github.com/EvaMLopez/CSS_Grid_Exercise/assets/146746288/0fbb0d9e-8332-4a18-aa5c-b2c1bbe66a0e)
+![CSS_Grid_Exercise](https://github.com/EvaMLopez/CSS_Grid_Exercise/assets/146746288/888dc7a1-bc76-4406-87c1-ef399a726ddf)
